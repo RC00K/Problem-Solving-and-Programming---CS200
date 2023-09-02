@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Undergraduate
+comment0.text=\n\ Undergraduate\n\ Undergraduate\ class\ has\ information\ pertaining\ to\ student\n\ and\ shows\ the\ level\ of\ the\ degree\n\ @author\ (Ryder\ Cook)\n\ @version\ (3/30/2020)\n
+comment1.params=
+comment1.target=Undergraduate()
+comment2.params=initialName\ initialStudentNumber\ initialLevel
+comment2.target=Undergraduate(java.lang.String,\ int,\ int)
+comment3.params=newLevel
+comment3.target=void\ setLevel(int)
+comment4.params=
+comment4.target=int\ getLevel()
+comment5.params=
+comment5.target=void\ writeOutput()
+numComments=6

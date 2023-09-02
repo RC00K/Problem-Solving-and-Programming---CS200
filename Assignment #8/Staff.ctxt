@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\n\ Staff\n\ Staff\ class\ gets\ properties\ from\ its\ super\ class\ employee\n\ @author\ (Ryder\ Cook)\n\ @version\ (3/30/2020)\n
+comment1.params=
+comment1.target=Staff()
+comment2.params=employeeID\ employeeName\ employeeDep\ paygrade
+comment2.target=Staff(int,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=paygrade
+comment3.target=void\ setGrade(int)
+comment4.params=
+comment4.target=int\ getGrade()
+comment5.params=
+comment5.target=void\ writeOutput()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

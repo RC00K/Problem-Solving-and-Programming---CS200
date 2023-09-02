@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Average3
+comment0.text=\r\n\ Average3\r\n\ Computes\ an\ average\r\n\ @author\ (Ryder\ Cook)\r\n\ @version\ (1/21/20)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TemperatureTest1
+comment0.text=\r\n\ TemperatureTest1\r\n\ The\ output\ of\ the\ Temperature\ Test\ temperatures\r\n\ that\ are\ entered\ in.\r\n\ @author\ (Ryder\ Cook)\r\n\ @version\ (2/20/2020)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

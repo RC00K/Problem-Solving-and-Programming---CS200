@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Doctorial
+comment0.text=\n\ Doctorial\n\ Doctorial\ class\ has\ the\ information\ and\ \n\ age\ of\ person\ with\ doctorial\n\ @author\ (Ryder\ Cook)\n\ @version\ (3/30/2020)\n
+comment1.params=
+comment1.target=Doctorial()
+comment2.params=docTitle\ initialName\ initialDocAge
+comment2.target=Doctorial(java.lang.String,\ java.lang.String,\ int)
+comment3.params=newDocAge
+comment3.target=void\ setDocAge(int)
+comment4.params=
+comment4.target=int\ getDocAge()
+comment5.params=docTitle
+comment5.target=void\ setTitle(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTitle()
+comment7.params=
+comment7.target=void\ writeOutput()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

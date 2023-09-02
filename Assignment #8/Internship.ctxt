@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Internship
+comment0.text=\n\ Internship\n\ This\ class\ stores\ the\ information\ for\ interns\n\ @author\ (Ryder\ Cook)\n\ @version\ (3/30/2020)\n
+comment1.params=
+comment1.target=Internship()
+comment2.params=studentTitle\ initialName\ initialStudentAge
+comment2.target=Internship(java.lang.String,\ java.lang.String,\ int)
+comment3.params=newStudentAge
+comment3.target=void\ setStudentAge(int)
+comment4.params=
+comment4.target=int\ getStudentAge()
+comment5.params=studentTitle
+comment5.target=void\ setTitle(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTitle()
+comment7.params=
+comment7.target=void\ writeOutput()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

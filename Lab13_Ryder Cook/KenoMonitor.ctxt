@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KenoMonitor
+comment1.params=
+comment1.target=void\ KenoMonitor()
+comment2.params=
+comment2.target=void\ setKenoNumbers()
+comment3.params=Number
+comment3.target=boolean\ isOnList(int)
+numComments=4

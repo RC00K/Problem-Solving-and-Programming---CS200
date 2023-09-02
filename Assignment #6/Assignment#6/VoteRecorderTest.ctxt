@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=VoteRecorderTest
+comment1.params=name1\ name2
+comment1.target=void\ setCandidatesPresident(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=boolean\ confirmVotes()
+comment11.params=
+comment11.target=void\ getAndConfirmVotes()
+comment2.params=
+comment2.target=java.lang.String\ currentVotePresident()
+comment3.params=name1\ name2
+comment3.target=void\ setCandidatesVicePresident(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ currentVoteVicePresident()
+comment5.params=
+comment5.target=void\ resetVotes()
+comment6.params=
+comment6.target=void\ VoteRecorder()
+comment7.params=
+comment7.target=void\ recordVotes()
+comment8.params=name1\ name2
+comment8.target=int\ getAVote(java.lang.String,\ java.lang.String)
+comment9.params=
+comment9.target=void\ getVotes()
+numComments=12

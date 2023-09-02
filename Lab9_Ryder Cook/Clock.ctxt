@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\r\n\ Clock\r\n\ Displays\ the\ time.\r\n\ @author\ (Ryder\ Cook)\r\n\ @version\ (2/11/2020)\r\n
+comment1.params=hour
+comment1.target=void\ setHour(int)
+comment2.params=min
+comment2.target=void\ setMinutes(int)
+comment3.params=sec
+comment3.target=void\ setSeconds(int)
+comment4.params=set
+comment4.target=void\ setDisplaySeconds(boolean)
+comment5.params=
+comment5.target=int\ getHour()
+comment6.params=
+comment6.target=int\ getMinutes()
+comment7.params=
+comment7.target=int\ getSeconds()
+comment8.params=
+comment8.target=boolean\ showSeconds()
+comment9.params=
+comment9.target=void\ displayTime()
+numComments=10

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Pet
+comment1.params=name
+comment1.target=Pet(java.lang.String)
+comment10.params=
+comment10.target=int\ getAge()
+comment11.params=
+comment11.target=double\ getWeight()
+comment12.params=
+comment12.target=void\ writeOutput()
+comment2.params=initialName\ initialAge\ initialWeight
+comment2.target=Pet(java.lang.String,\ int,\ double)
+comment3.params=newName\ newAge\ newWeight
+comment3.target=void\ setPet(java.lang.String,\ int,\ double)
+comment4.params=newName
+comment4.target=void\ setName(java.lang.String)
+comment5.params=initialAge
+comment5.target=Pet(int)
+comment6.params=newAge
+comment6.target=void\ setAge(int)
+comment7.params=initialWeight
+comment7.target=Pet(double)
+comment8.params=newWeight
+comment8.target=void\ setWeight(double)
+comment9.params=
+comment9.target=java.lang.String\ getName()
+numComments=13
